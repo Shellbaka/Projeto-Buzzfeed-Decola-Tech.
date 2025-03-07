@@ -1,8 +1,8 @@
-## ProjetoBuzzfeedDecolaTech
+# ProjetoBuzzfeedDecolaTech
 
-Este projeto foi feito usando o [Angular CLI](https://github.com/angular/angular-cli) versão 19.2.1.
 
-# Projeto que simula uma ideia como as do BuzzFeed.
+
+## Projeto que simula uma ideia como as do BuzzFeed.
 
 - O projeto em questão simula quizz como são feitos no buzzfeed usando a mecânica de singlepage e reaproveitamento de componentes.
 - No projeto eu vou estar deixando algumas variáveis de perguntas e repostas para que vocês possam estar modelando ao seu bel prazer e estar brincando também.
@@ -63,6 +63,9 @@ Este projeto foi desenvolvido dentro do programa DecolaTech, e devido ao prazo d
 
 ## 💡 Considerações Finais
 Criar esses quizzes foi uma experiência divertida e educativa. Espero que vocês gostem e se divirtam tanto quanto eu ao desenvolvê-los! 😃
+
+
+Este projeto foi feito usando o [Angular CLI](https://github.com/angular/angular-cli) versão 19.2.1.
 
 ---
 
