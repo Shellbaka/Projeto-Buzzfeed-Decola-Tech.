@@ -9,4 +9,10 @@ color: white;
 
 body{
     background-color: rgb(63, 47, 83);
+    background-image: url(https://c.wallhere.com/photos/8b/48/TylerCreatesWorlds_space_galaxy_stars_purple-155782.jpg!d);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
 }
