@@ -1,5 +1,5 @@
 # ProjetoBuzzfeedDecolaTech
-![Descrição da Imagem](Quizz%20project.jpg)
+![Descrição da Imagem](QUizz%20project.jpg)
 
 ## Projeto que simula uma ideia como as do BuzzFeed.
 
