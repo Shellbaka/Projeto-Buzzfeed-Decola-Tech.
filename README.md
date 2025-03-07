@@ -12,7 +12,7 @@
 quizz_question.json
 ```
 
-A partir dele vocês pode colocar os questionários e alternativas seguindo o modelo inputado.
+A partir dele vocês podem colocar os questionários e alternativas seguindo o modelo inputado.
 
 # 📜 Questionários Interativos
 
